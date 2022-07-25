@@ -19,9 +19,7 @@ Assume the customers around a campus order 5000 orders a day from 50 local resta
 ### Quality of code 
  Please use best practices for writing code and publish to this repo. 
 ### Evaluation
- We do not evaluate on completeness but rather on correctness, quality and approaches.
-### Q & A
- Please create an issue and tag @shrimuthu, @aduca98 or @seankwalker for questions or review.
+ We do not evaluate on completeness but rather on correctness, quality and 
 ### Data
  Generate random combinations of product and stores to build up the orders. For eg, `10 product names * 10 stores = a lot of combinations`
  
